@@ -1,0 +1,1 @@
+# GerenciadorDeCampeonatos
